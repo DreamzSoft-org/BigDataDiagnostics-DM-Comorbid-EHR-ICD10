@@ -1,0 +1,1720 @@
+['Label', 'text']
+CONDITION  - T2 Diabetes25 years
+
+humulin 70/30 20 20"	"Loss apetite
+DISEASE    - loss of
+DISEASE    - conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes25
+DISEASE    - 70/30 20
+TEST       - 20"
+CONDITION  - Loss apetite
+CONDITION  - nausea
+CONDITION  - loss of conciuos ness
+CONDITION  - dizziness
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - T2 Diabetes
+CONDITION  - lung biopsy ?wegners granulomatosis
+DISEASE    - steroid"
+DISEASE    - HYpertension
+
+DISEASE    - type 2 diabetes
+ICD-10-CM  - 5/160
+FAMILY     - mg
+DISEASE    - 7.49 RBS
+DISEASE    - 204
+
+CONDITION  - mouth
+
+CONDITION  - weight loss
+DURATION   - diabetes
+
+ICD-10-CM  - pain
+PROCEDURE  - eyes
+TEST       - needs screening
+
+CONDITION  - allergy nil
+DURATION   - "
+
+MEDICINE   - "HYpertension
+DISEASE    - type 2 diabetes
+ICD-10-CM  - 5/160
+FAMILY     - mg
+DISEASE    - 7.49 RBS
+DISEASE    - 204
+
+CONDITION  - mouth
+
+CONDITION  - weight loss
+DURATION   - diabetes
+
+ICD-10-CM  - pain
+PROCEDURE  - eyes
+TEST       - needs screening
+
+CONDITION  - allergy nil
+DURATION   - "
+
+MEDICINE   - "HYpertension
+DISEASE    - type 2 diabetes
+ICD-10-CM  - 5/160
+FAMILY     - mg
+DISEASE    - 7.49 RBS
+DISEASE    - 204
+
+CONDITION  - mouth
+
+CONDITION  - weight loss
+DURATION   - diabetes
+
+ICD-10-CM  - pain
+PROCEDURE  - eyes
+TEST       - needs screening
+
+CONDITION  - allergy nil
+DURATION   - "
+
+MEDICINE   - "HYpertension
+DISEASE    - type 2 diabetes
+ICD-10-CM  - 5/160
+FAMILY     - mg
+DISEASE    - 7.49 RBS
+DISEASE    - 204
+
+CONDITION  - mouth
+
+CONDITION  - weight loss
+DURATION   - diabetes
+
+ICD-10-CM  - pain
+PROCEDURE  - eyes
+TEST       - needs screening
+
+CONDITION  - allergy nil
+DURATION   - "
+
+MEDICINE   - "HYpertension
+DISEASE    - type 2 diabetes
+ICD-10-CM  - 5/160
+FAMILY     - mg
+DISEASE    - 7.49 RBS
+DISEASE    - 204
+
+CONDITION  - mouth
+
+CONDITION  - weight loss
+DURATION   - diabetes
+
+ICD-10-CM  - pain
+PROCEDURE  - eyes
+TEST       - needs screening
+
+CONDITION  - allergy nil
+DURATION   - "
+
+DISEASE    - T2 Diabeets
+DISEASE    - LVF
+
+DISEASE    - AKI"
+MEDICINE   - LANTUS
+MEDICINE   - NOVORAPID
+CONDITION  - No hypos
+CONDITION  - Feet ok
+CONDITION  - diet ok
+CONDITION  - eyes needs screening
+ICD-10-CM  - thyroxine
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+DISEASE    - thyroxine 50mcg
+DISEASE    - dyspepsia
+
+CONDITION  - Thyrotoxicosis Aug 2016
+c/section
+Tonsillectomy
+
+Inderal 10mg  1+1"	"Improved
+increased SWEATING
+Brother had hyperthyroid"
+"Thyrotoxicosis Aug 2016
+c/section
+Tonsillectomy
+
+Inderal 10mg  1+1"	"Improved
+increased SWEATING
+Brother had hyperthyroid"
+"Thyrotoxicosis Aug 2016
+c/section
+Tonsillectomy
+
+Inderal 10mg  1+1"	"Improved
+increased SWEATING
+Brother had hyperthyroid"
+"Thyrotoxicosis Aug 2016
+c/section
+Tonsillectomy
+
+Inderal 10mg  1+1"	recurrent thyrotoxicosis
+"Thyrotoxicosis Aug 2016
+c/section
+Tonsillectomy
+
+Inderal 10mg  1+1"	recurrent thyrotoxicosis
+"Thyrotoxicosis Aug 2016
+c/section
+Tonsillectomy
+
+Inderal 10mg  1+1"	recurrent thyrotoxicosis
+"Thyrotoxicosis Aug 2016
+c/section
+Tonsillectomy
+
+Inderal 10mg  1+1"	recurrent thyrotoxicosis
+"Thyrotoxicosis Aug 2016
+c/section
+Tonsillectomy
+
+Inderal 10mg  1+1"	recurrent thyrotoxicosis
+"Thyrotoxicosis Aug 2016
+c/section
+Tonsillectomy
+
+Inderal 10mg  1+1"	recurrent thyrotoxicosis
+"Thyrotoxicosis Aug 2016
+c/section
+Tonsillectomy
+
+Inderal 10mg  1+1"	recurrent thyrotoxicosis
+"Thyrotoxicosis Aug 2016
+c/section
+Tonsillectomy
+
+Inderal 10mg  1+1"	recurrent thyrotoxicosis
+"Thyrotoxicosis Aug 2016
+c/section
+Tonsillectomy
+
+Inderal 10mg  1+1"	recurrent thyrotoxicosis
+"Thyrotoxicosis Aug 2016
+c/section
+Tonsillectomy
+
+Inderal 10mg  1+1"	recurrent thyrotoxicosis
+"Thyrotoxicosis Aug 2016
+c/section
+Tonsillectomy
+
+Inderal 10mg  1+1"	recurrent thyrotoxicosis
+"Thyrotoxicosis Aug 2016
+c/section
+Tonsillectomy
+
+Inderal 10mg  1+1"	recurrent thyrotoxicosis
+"Thyrotoxicosis Aug 2016
+c/section
+Tonsillectomy
+
+Inderal 10mg  1+1"	recurrent thyrotoxicosis
+"no medication
+
+appendectomy
+tonsillectomy
+CONDITION  - weight loss
+CONDITION  - mother
+DISEASE    - diabetes
+TEST       - loss
+polydipsai
+mother has diabetes"
+"
+CONDITION  - no medication
+
+
+DISEASE    - tonsillectomy"
+DISEASE    - loss
+
+PROCEDURE  - polydipsai
+FAMILY     - mother
+DISEASE    - diabetes
+TEST       - loss
+polydipsai
+mother has diabetes"
+"
+CONDITION  - no medication
+
+
+DISEASE    - tonsillectomy"
+DISEASE    - loss
+
+PROCEDURE  - polydipsai
+FAMILY     - mother
+DISEASE    - diabetes
+TEST       - loss
+polydipsai
+mother has diabetes"
+"
+CONDITION  - no medication
+
+
+DISEASE    - tonsillectomy"
+DISEASE    - loss
+
+PROCEDURE  - polydipsai
+FAMILY     - mother
+DISEASE    - diabetes
+TEST       - loss
+polydipsai
+mother has diabetes"
+"
+CONDITION  - no medication
+
+
+DISEASE    - tonsillectomy"
+DISEASE    - loss
+
+PROCEDURE  - polydipsai
+FAMILY     - mother
+DISEASE    - diabetes
+TEST       - loss
+polydipsai
+mother has diabetes"
+"
+CONDITION  - no medication
+
+
+DISEASE    - tonsillectomy"
+DISEASE    - loss
+
+PROCEDURE  - polydipsai
+FAMILY     - mother
+DISEASE    - diabetes
+TEST       - loss
+polydipsai
+mother has diabetes"
+"
+CONDITION  - no medication
+
+
+DISEASE    - tonsillectomy"
+DISEASE    - loss
+
+PROCEDURE  - polydipsai
+FAMILY     - mother
+DISEASE    - diabetes
+TEST       - loss
+polydipsai
+mother has diabetes"
+"
+CONDITION  - no medication
+
+
+DISEASE    - tonsillectomy"
+DISEASE    - loss
+
+PROCEDURE  - polydipsai
+FAMILY     - mother
+DISEASE    - diabetes
+TEST       - loss
+polydipsai
+mother has diabetes"
+"
+CONDITION  - no medication
+
+
+DISEASE    - tonsillectomy"
+DISEASE    - loss
+
+PROCEDURE  - polydipsai
+FAMILY     - mother
+DISEASE    - diabetes
+TEST       - loss
+polydipsai
+mother has diabetes"
+"
+CONDITION  - no medication
+
+
+DISEASE    - tonsillectomy"
+DISEASE    - loss
+
+PROCEDURE  - polydipsai
+FAMILY     - mother
+DISEASE    - diabetes
+TEST       - loss
+polydipsai
+mother has diabetes"
+"
+CONDITION  - no medication
+
+
+DISEASE    - tonsillectomy"
+DISEASE    - loss
+
+PROCEDURE  - polydipsai
+FAMILY     - mother
+DISEASE    - diabetes
+TEST       - loss
+polydipsai
+mother has diabetes"
+"
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+DISEASE    - t2 diabetes
+DISEASE    - antibodies negative
+CONDITION  - glucose well controlled
+TEST       - TSH
+RESULT     - 0.331
+TEST       - T4
+RESULT     - 10.69
+TEST       - T3
+RESULT     - 1.52
+DISEASE    - Thyroid U
+CONDITION  - Enlarged thyroid lobes
+CONDITION  - ill-defined hypoechoic area
+CONDITION  - colloid goitre
+TEST       - Thyroid scan
+CONDITION  - neck pain
+DURATION   - last 3 weeks
+TEST       - TSH
+RESULT     - 0.331
+TEST       - T4
+RESULT     - 10.69
+TEST       - T3
+RESULT     - 1.52
+DISEASE    - Thyroid U
+CONDITION  - Enlarged thyroid lobes
+CONDITION  - ill-defined hypoechoic area
+CONDITION  - colloid goitre
+TEST       - Thyroid scan
+CONDITION  - neck pain
+DURATION   - last 3 weeks
+TEST       - TSH
+RESULT     - 0.331
+TEST       - T4
+RESULT     - 10.69
+TEST       - T3
+RESULT     - 1.52
+DISEASE    - Thyroid U
+CONDITION  - Enlarged thyroid lobes
+CONDITION  - ill-defined hypoechoic area
+CONDITION  - colloid goitre
+TEST       - Thyroid scan
+CONDITION  - neck pain
+DURATION   - last 3 weeks
+DISEASE    - T2 Diabetes
+DISEASE    - fatty liver
+DISEASE    - amaryl 4
+TEST       - glucophage 1000
+TEST       - seretide
+
+PROCEDURE  - ventolin
+PROCEDURE  - selecta
+DISEASE    - losartan 25
+CONDITION  - fasting sugar 200
+diet ok
+walks regualrly
+CONDITION  - eyes screened
+CONDITION  - allergy nil
+CONDITION  - no medications	
+CONDITION  - ancne
+CONDITION  - scalp hair loss
+TEST       - family history 
+
+CONDITION  - NORMAL
+CONDITION  - scalp hair loss
+TEST       - family history 
+
+CONDITION  - NORMAL
+CONDITION  - scalp hair loss
+TEST       - family history 
+
+CONDITION  - NORMAL
+CONDITION  - scalp hair loss
+TEST       - family history 
+
+CONDITION  - NORMAL
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
+DISEASE    - T2 Diabetes
+DISEASE    - Hypertension
+
+
+TEST       - eziday 50
+MEDICINE   - norvasc
+MEDICINE   - rovista
+MEDICINE   - xormet
+MEDICINE   - amaryl
+TEST       - victosa 1.8
+CONDITION  - lost weight 
+hyperglycemic
+CONDITION  - walk limited
+CONDITION  - knee pain
+CONDITION  - eyes screened
+CONDITION  - feet ok
